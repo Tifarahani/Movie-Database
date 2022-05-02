@@ -11,7 +11,20 @@ Using RegEx to parse data and transform text into numbers.Load: Export transform
 ---
 #### Deliverable 1: Write an ETL Function to Read Three Data Files
 
+ltimately, we were able to clean, merge the datasets and export the two new tables into PostgreSQL by using Python. The final results created a movies table with 6,052 rows. A 17% reduction from the original of 7,311 and a ratings table with 26,024,289 rows.
 
+![movies_query](https://github.com/Tifarahani/Movie-Database/blob/main/Resources/movies_query.png)
+
+![ratings_query](https://github.com/Tifarahani/Movie-Database/blob/main/Resources/ratings_query.png)
+
+**Practice File Results**
+
+![Rating](https://github.com/Tifarahani/Movie-Database/blob/main/Resources/Images/Rating.png)
+
+**Deliverable 4 File Results**
+
+![11](https://github.com/Tifarahani/Movie-Database/blob/main/Resources/Images/11.png)
+ 
 #### Deliverable 2: Extract and Transform the Wikipedia Data
 
 
