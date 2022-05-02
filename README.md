@@ -19,7 +19,7 @@ ltimately, we were able to clean, merge the datasets and export the two new tabl
 
 **Practice File Results**
 
-![Rating](https://github.com/Tifarahani/Movie-Database/blob/main/Resources/Images/Rating..png.png)
+![Rating](https://github.com/Tifarahani/Movie-Database/blob/main/Resources/Images/Rating.png.png)
 
 **Deliverable 4 File Results**
 
