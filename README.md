@@ -4,7 +4,10 @@
 Create an ETL pipeline using Jupyter Notebooks and PostgreSQL from raw data to SQL database.
 Extracting data,Deleting bad data (corrupted or missing), removing duplicate rows, and consolidating columns. 
 Using RegEx to parse data and transform text into numbers.Load: Export transformed data into a database 
-
+### Resources
+* Software: Python ,Anaconda, Jupyter Notebooks, PostgreSQL 
+* Libraries: Pandas, SQLAlchemy, NumPy 
+* Files: Wikipedia Json, Movie Database Metadata, and MovieLens Ratings
 ---
 #### Deliverable 1: Write an ETL Function to Read Three Data Files
 
