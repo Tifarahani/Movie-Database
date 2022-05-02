@@ -20,5 +20,7 @@ Using RegEx to parse data and transform text into numbers.Load: Export transform
 
 ####  Deliverable 4: Create the Movie Database
 ---
-## Result
+### Result
 After cleaning, merging the datasets and exporting the two new tables into PostgreSQL by using Python, the final results created a movies table with 6,052 rows. A 17% reduction from the original of 7,311 and a ratings table with 26,024,289 rows.
+### Summary:
+The process of reviewing the data and knowing what to "clean" was challenging, including cross comparison between the datasets, as well as, learning how to use RegEx to parse the text. This process can be applied to large data bases. I
